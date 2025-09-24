@@ -1,0 +1,6 @@
+# No hacer seguimiento de los siguientes archivos
+*.exe
+*.app
+
+# No rastrear carpeta
+Temp/
