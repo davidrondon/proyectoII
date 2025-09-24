@@ -1,4 +1,4 @@
-# Proyecto GIT/GITHUB
+# Proyecto GIT/GITHUB para clase de Proyecto de Datos II
 
 Clase de git y github
 
